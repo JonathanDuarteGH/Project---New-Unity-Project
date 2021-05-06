@@ -1,4 +1,4 @@
-# Hello World - Unity
+# New Unity Project
 
 - This project used Unity to import an assets package and export my own version of an assets package
 
